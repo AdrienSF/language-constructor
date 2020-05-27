@@ -1,0 +1,10 @@
+<class 'phonem.Vowel'>,front,front,front,front,central,central,central,central,back,back,back,back
+<class 'phonem.Vowel'>,unrounded,unrounded,rounded,rounded,unrounded,unrounded,rounded,rounded,unrounded,unrounded,rounded,rounded
+<class 'phonem.Vowel'>,short,long,short,long,short,long,short,long,short,long,short,long
+close,i,,,,ɨ,,,,ɯ,ɯː,,
+near-close,,,,,,,,,,,,
+close-mid,,,,,,,,,,,o,oː
+mid,,,,,,,,,,,,
+open-mid,,,,,,,,,ʌ,ʌː,ɔ,
+near-open,,,,,ɐ,ɐː,,,,,,
+open,a,,,,,,,,,,,

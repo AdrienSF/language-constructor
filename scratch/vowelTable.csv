@@ -1,0 +1,8 @@
+<class 'phonem.Vowel'>,"{""place"": ""front"", ""roundedness"": ""unrounded"", ""length"": ""short""}",prevalence,"{""place"": ""front"", ""roundedness"": ""unrounded"", ""length"": ""long""}",prevalence,"{""place"": ""front"", ""roundedness"": ""rounded"", ""length"": ""short""}",prevalence,"{""place"": ""front"", ""roundedness"": ""rounded"", ""length"": ""long""}",prevalence,"{""place"": ""central"", ""roundedness"": ""unrounded"", ""length"": ""short""}",prevalence,"{""place"": ""central"", ""roundedness"": ""unrounded"", ""length"": ""long""}",prevalence,"{""place"": ""central"", ""roundedness"": ""rounded"", ""length"": ""short""}",prevalence,"{""place"": ""central"", ""roundedness"": ""rounded"", ""length"": ""long""}",prevalence,"{""place"": ""back"", ""roundedness"": ""unrounded"", ""length"": ""short""}",prevalence,"{""place"": ""back"", ""roundedness"": ""unrounded"", ""length"": ""long""}",prevalence,"{""place"": ""back"", ""roundedness"": ""rounded"", ""length"": ""short""}",prevalence,"{""place"": ""back"", ""roundedness"": ""rounded"", ""length"": ""long""}",prevalence
+close,None,,None,,None,,None,,None,,None,,None,,None,,None,,None,,None,,None,
+near_close,ɪ,0,ɪː,0,ʏ,0,ʏː,0,None,0,None,0,None,0,None,0,None,0,None,0,ʊ,0,ʊː,0
+close_mid,e,0,eː,0,ø,0,øː,0,ɘ,0,ɘː,0,ɵ,0,ɵː,0,ɤ,0,ɤː,0,o,0,oː,0
+mid,None,0,None,0,ø̞,0,ø̞ː,0,ə,0,əː,0,None,0,None,0,None,0,None,0,o̞,0,o̞ː,0
+open_mid,ɛ,0,ɛː,0,œ,0,œː,0,ɜ,0,ɜː,0,ɞ,0,ɞː,0,ʌ,0,ʌː,0,ɔ,0,ɔː,0
+near_open,æ,0,æː,0,None,0,None,0,ɐ,0,ɐː,0,None,0,None,0,None,0,None,0,None,0,None,0
+open,a,0,aː,0,ɶ,0,ɶː,0,ä,0,äː,0,None,0,None,0,ɑ,0,ɑː,0,ɒ,0,ɒː,0

@@ -1,0 +1,674 @@
+[
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "front",
+      "prevalence": 0.93,
+      "roundedness": "unrounded",
+      "symbol": "i"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "front",
+      "prevalence": 0.29,
+      "roundedness": "unrounded",
+      "symbol": "iː"
+    },
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "y"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "yː"
+    },
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "central",
+      "prevalence": 0.2,
+      "roundedness": "unrounded",
+      "symbol": "ɨ"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɨː"
+    },
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ʉ"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ʉː"
+    },
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "back",
+      "prevalence": 0.06,
+      "roundedness": "unrounded",
+      "symbol": "ɯ"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɯː"
+    },
+    {
+      "length": "short",
+      "manner": "close",
+      "place": "back",
+      "prevalence": 0.87,
+      "roundedness": "rounded",
+      "symbol": "u"
+    },
+    {
+      "length": "long",
+      "manner": "close",
+      "place": "back",
+      "prevalence": 0.26,
+      "roundedness": "rounded",
+      "symbol": "uː"
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "front",
+      "prevalence": 0.17,
+      "roundedness": "unrounded",
+      "symbol": "ɪ"
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɪː"
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ʏ"
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ʏː"
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-close",
+      "place": "back",
+      "prevalence": 0.16,
+      "roundedness": "rounded",
+      "symbol": "ʊ"
+    },
+    {
+      "length": "long",
+      "manner": "near-close",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ʊː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "front",
+      "prevalence": 0.68,
+      "roundedness": "unrounded",
+      "symbol": "e"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "front",
+      "prevalence": 0.23,
+      "roundedness": "unrounded",
+      "symbol": "eː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ø"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "øː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "central",
+      "prevalence": 0.1,
+      "roundedness": "unrounded",
+      "symbol": "ɘ"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɘː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɵ"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɵː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɤ"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɤː"
+    },
+    {
+      "length": "short",
+      "manner": "close-mid",
+      "place": "back",
+      "prevalence": 0.68,
+      "roundedness": "rounded",
+      "symbol": "o"
+    },
+    {
+      "length": "long",
+      "manner": "close-mid",
+      "place": "back",
+      "prevalence": 0.23,
+      "roundedness": "rounded",
+      "symbol": "oː"
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "front",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "front",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ø̞"
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ø̞ː"
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "central",
+      "prevalence": 0.24,
+      "roundedness": "unrounded",
+      "symbol": "ə"
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "central",
+      "prevalence": 0.05,
+      "roundedness": "unrounded",
+      "symbol": "əː"
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "mid",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "o̞"
+    },
+    {
+      "length": "long",
+      "manner": "mid",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "o̞ː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "front",
+      "prevalence": 0.43,
+      "roundedness": "unrounded",
+      "symbol": "ɛ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "front",
+      "prevalence": 0.12,
+      "roundedness": "unrounded",
+      "symbol": "ɛː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "œ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "œː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɜ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɜː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɞ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɞː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "back",
+      "prevalence": 0.05,
+      "roundedness": "unrounded",
+      "symbol": "ʌ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ʌː"
+    },
+    {
+      "length": "short",
+      "manner": "open-mid",
+      "place": "back",
+      "prevalence": 0.41,
+      "roundedness": "rounded",
+      "symbol": "ɔ"
+    },
+    {
+      "length": "long",
+      "manner": "open-mid",
+      "place": "back",
+      "prevalence": 0.12,
+      "roundedness": "rounded",
+      "symbol": "ɔː"
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "front",
+      "prevalence": 0.06,
+      "roundedness": "unrounded",
+      "symbol": "æ"
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "æː"
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "front",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "front",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɐ"
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɐː"
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "unrounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "near-open",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "near-open",
+      "place": "back",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "front",
+      "prevalence": 0.93,
+      "roundedness": "unrounded",
+      "symbol": "a"
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "front",
+      "prevalence": 0.28,
+      "roundedness": "unrounded",
+      "symbol": "aː"
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɶ"
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "front",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɶː"
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ä"
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "central",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "äː"
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "central",
+      "prevalence": 0,
+      "roundedness": "rounded",
+      "symbol": null
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɑ"
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "unrounded",
+      "symbol": "ɑː"
+    },
+    {
+      "length": "short",
+      "manner": "open",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɒ"
+    },
+    {
+      "length": "long",
+      "manner": "open",
+      "place": "back",
+      "prevalence": 0.01,
+      "roundedness": "rounded",
+      "symbol": "ɒː"
+    }
+  ]
